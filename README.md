@@ -1,2 +1,2 @@
 Example text
-![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/paulecraig79/sem/actions/workflows/main.yml/badge.svg)
